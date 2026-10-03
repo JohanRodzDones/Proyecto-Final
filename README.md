@@ -1,2 +1,19 @@
 # Proyecto-Final
 Salud mental y Comunidad positiva en videojuegos
+[index.html](https://github.com/user-attachments/files/32987521/index.html)
+<!DOCTYPE html>
+<html lang="es">
+
+<!-- Head -->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width="device-width; initial scale="1.0">
+	
+	<title>La Salud Mental y Comunidad Positiva en Videojuegos</title>
+</head>
+
+<!-- Content -->
+<body>
+
+<!-- Heading -->
+<h1>
