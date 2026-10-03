@@ -1,6 +1,6 @@
 # Proyecto-Final
 Salud mental y Comunidad positiva en videojuegos
-[index.html](https://github.com/user-attachments/files/32987521/index.html)
+
 <!DOCTYPE html>
 <html lang="es">
 
