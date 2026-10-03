@@ -12,8 +12,12 @@ Salud mental y Comunidad positiva en videojuegos
 	<title>La Salud Mental y Comunidad Positiva en Videojuegos</title>
 </head>
 
-<!-- Content -->
+<!-- Main Content -->
 <body>
 
 <!-- Heading -->
-<h1>
+<h1>Inicio</h1>
+
+<h2>Como los videojuegos tóxicos afecta la interacción de comunidad</h2>
+
+<!-- Paragraph -->
